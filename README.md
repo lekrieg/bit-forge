@@ -16,7 +16,7 @@
 
 ### Career paths
 
-- [Backend DotNet Web](https://github.com/lekrieg/bit-forge/tree/main/careerPaths/backendDotNetWeb/backendDotnetWeb.md)
+- [Backend DotNet Web](https://github.com/lekrieg/bit-forge/tree/main/careerPaths/backendDotNetWeb/backendDotNetWeb.md)
 - [Backend DotNet Desktop](https://github.com/lekrieg/bit-forge/tree/main/careerPaths/backendDotNetDesktop/backendDotNetDesktop.md)
 
 ### Algoritmos
