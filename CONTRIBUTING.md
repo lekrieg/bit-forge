@@ -1,12 +1,12 @@
 # Contribution Guidelines
 Please ensure your pull request adheres to the following guidelines:
 
-* Open a pull request if you want to add new things.
+* Open a new issue if you want to add new things.
 * Please search previous suggestions before making a new one, as yours may be a duplicate.
 * Please make an individual pull request for each suggestion.
 * Use the following format:
 ```
-[PULL_REQUEST_N][RESOURCE_ADDED] - DESCRIPTION.
+[PR_N][RESOURCE_ADDED] - DESCRIPTION.
 ```
 * Keep descriptions short and simple.
 * End all descriptions with a full stop/period.
