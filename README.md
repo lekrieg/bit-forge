@@ -2,13 +2,13 @@
 
 ## Index
 
-- [Tecnologias](#tecnologias)
+- [Technology](#technology)
 - [Career paths](#career-paths)
-- [Algoritimos](#algoritmos)
+- [Algorithms](#algorithms)
 - [Contributing](#contributing)
 ---
 
-### Tecnologias
+### Technology
 
 - [C++](https://github.com/lekrieg/bit-forge/tree/main/technologies/cpp/cpp.md)
 - [DotNet](https://github.com/lekrieg/bit-forge/tree/main/technologies/dotNet/dotNet.md) - é um framework livre e de código aberto para os sistemas operacionais Windows, Linux e macOS
@@ -20,7 +20,7 @@
 - [Backend DotNet Web](https://github.com/lekrieg/bit-forge/tree/main/careerPaths/backendDotNetWeb/backendDotNetWeb.md)
 - [Backend DotNet Desktop](https://github.com/lekrieg/bit-forge/tree/main/careerPaths/backendDotNetDesktop/backendDotNetDesktop.md)
 
-### Algoritmos
+### Algorithms
 - [ ] In progress
 
 ## Contributing

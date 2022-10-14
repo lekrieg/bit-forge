@@ -1,34 +1,34 @@
 # CSharp
 
-- [Variaveis e tipos de dados](#variaveis-e-tipos-de-dados)
-- [Metodos](#metodos)
-- [Classes](#classes)
+- [Variables and data types](#variables-and-data-types)
+- [Methods](#methods)
+- [Class](#class)
 - [Interfaces](#interfaces)
 
-## Variaveis e tipos de dados
-Variaveis são cascas que seguram dados. São chamados de variaveis por que o conteudo pode mudar ou variar conforme o programa executa. São locais onde os dados são guardados na memoria.
+## Variables and data types
+Variables are containers that hold data values. They are called variables, because they can change according with program execution. They are places in memory that can hold some data.
 
-Exemplo:
+Example:
 ```C#
 int i;
 bool isSomething;
 string name;
-Empregado empregado;
+Employee employee;
 ```
-Eles podem ser incializadas com valores, caso isso não ocorra, o compilador joga um valor padrão dentro de cada uma(null para objetos, 0 para numeros e false para booleans).
+They can be initialized with values, if not, compiler will put some default value inside it(null to objects, 0 to numbers and false to booleans).
 
 - To read
 	- [microsoft](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/language-specification/variables)
 	- [tutorialspoint](https://www.tutorialspoint.com/csharp/csharp_variables.htm)
 	- [geeksforgeeks](https://www.geeksforgeeks.org/c-sharp-types-of-variables/)
-	- [capitulo 5] C# player's guide
+	- [chapter 5] C# player's guide
 - Practice
 	- [ ] In progress
 
-## Metodos
+## Methods
 - [ ] In progress
 
-## Classes
+## Class
 - [ ] In progress
 
 ## Interfaces
