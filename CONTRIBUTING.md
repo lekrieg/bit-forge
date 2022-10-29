@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 * Please make an individual pull request for each suggestion.
 * Use the following format:
 ```
-[PR_N][RESOURCE_ADDED] - DESCRIPTION.
+[RESOURCE][TOPIC] - DESCRIPTION.
 ```
 * Keep descriptions short and simple.
 * End all descriptions with a full stop/period.

@@ -1,11 +1,15 @@
 # CSharp
 
-- [Variables and data types](#variables-and-data-types)
+- [Basics](#basics)
+	- [Variables and data types](#variables-and-data-types)
+	- [Flow control](#flow-control)
 - [Methods](#methods)
 - [Class](#class)
 - [Interfaces](#interfaces)
 
-## Variables and data types
+## Basics
+
+### Variables and data types
 Variables are containers that hold data values. They are called variables, because they can change according with program execution. They are places in memory that can hold some data.
 
 Example:
@@ -24,6 +28,9 @@ They can be initialized with values, if not, compiler will put some default valu
 	- [chapter 5] C# player's guide
 - Practice
 	- [ ] In progress
+
+### Flow control
+- [ ] In progress
 
 ## Methods
 - [ ] In progress

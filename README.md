@@ -11,7 +11,7 @@
 ### Technology
 
 - [C++](https://github.com/lekrieg/bit-forge/tree/main/technologies/cpp/cpp.md)
-- [DotNet](https://github.com/lekrieg/bit-forge/tree/main/technologies/dotNet/dotNet.md) - é um framework livre e de código aberto para os sistemas operacionais Windows, Linux e macOS
+- [DotNet](https://github.com/lekrieg/bit-forge/tree/main/technologies/dotNet/dotNet.md) - is a developer platform with tools and libraries for building any type of app.
 - [Aws](https://github.com/lekrieg/bit-forge/tree/main/technologies/aws/aws.md)
 - [Java](https://github.com/lekrieg/bit-forge/tree/main/technologies/java/java.md)
 
