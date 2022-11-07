@@ -5,6 +5,7 @@
 - [Technology](#technology)
 - [Career paths](#career-paths)
 - [Algorithms](#algorithms)
+- [Libraries and frameworks](#libraries-and-frameworks)
 - [Contributing](#contributing)
 ---
 
@@ -23,7 +24,10 @@
 ### Algorithms
 - [ ] In progress
 
-## Contributing
+### Libraries and frameworks
+- [ ] In progress
+
+### Contributing
 Please take a quick gander at the [contribution guidelines](https://github.com/lekrieg/bit-forge/blob/main/CONTRIBUTING.md) for details.
 Thanks to all [contributors](https://github.com/lekrieg/bit-forge/graphs/contributors); you rock!
 
