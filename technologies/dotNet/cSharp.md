@@ -48,6 +48,10 @@ They can be initialized with values, if not, compiler will put some default valu
 	- [geeksforgeeks](https://www.geeksforgeeks.org/c-sharp-types-of-variables/)
 	- [chapter 5] C# player's guide
 - Practice
+``` {toggle} Click here to reveal!
+:show:
+Testing toggle content!
+```
 	- [ ] In progress
 
 ### Flow control
