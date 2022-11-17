@@ -123,15 +123,8 @@ They can be initialized with values, if not, compiler will put some default valu
 ### Publishing
 - [ ] In progress
 
-``` {toggle} Click here to reveal!
-:show:
-Testing toggle content!
+<details><summary>Test</summary>
 ```
-
-```{r, echo=FALSE}
-1 + 1
+Hell yeah!
 ```
-
-```{r, results='hide'}
-1 + 1
-```
+</details>
