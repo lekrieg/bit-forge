@@ -27,6 +27,7 @@
 	- [Unsafe code](#unsafe-code)
 	- [More language features](#more-language-features)
 	- [Publishing](#publishing)
+- [Exercises](#exercises)
 
 ## Basics
 
@@ -42,16 +43,46 @@ Employee employee;
 ```
 They can be initialized with values, if not, compiler will put some default value inside it(null to objects, 0 to numbers and false to booleans).
 
-- To read
+- Learning complement
 	- [microsoft](https://learn.microsoft.com/pt-br/dotnet/csharp/language-reference/language-specification/variables)
 	- [tutorialspoint](https://www.tutorialspoint.com/csharp/csharp_variables.htm)
 	- [geeksforgeeks](https://www.geeksforgeeks.org/c-sharp-types-of-variables/)
 	- [chapter 5] C# player's guide
-- Practice
-	- [ ] In progress
 
 ### Flow control
-- [ ] In progress
+Is the ability to control how program flows. If a given condition is matched, something will happen.
+
+Example:
+```C#
+if(condition)
+{
+	// do something
+}
+else if(anotherCondition)
+{
+	// do something
+}
+else
+{
+	// do something else
+}
+
+switch()
+{
+	case X:
+		// do something
+		break;
+	default:
+		// do something else
+		break;
+}
+```
+
+- Learning complement
+	- [dotnettricks](https://www.dotnettricks.com/learn/csharp/understanding-decision-making-statements-in-csharp)
+	- [tutorialspoint](https://www.tutorialspoint.com/csharp/csharp_decision_making.htm)
+	- [geeksforgeeks](https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/)
+	- [chapter 9] C# player's guide
 
 ### Methods
 - [ ] In progress
@@ -123,8 +154,5 @@ They can be initialized with values, if not, compiler will put some default valu
 ### Publishing
 - [ ] In progress
 
-<details><summary>Test</summary>
-```
-Hell yeah!
-```
-</details>
+## Exercises
+- [Exercises](https://github.com/lekrieg/bit-forge/tree/main/technologies/dotNet/exercises.md) - Exercises to practice.
